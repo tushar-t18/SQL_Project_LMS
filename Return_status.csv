@@ -1,0 +1,18 @@
+return_id,issued_id,return_book_name,return_date,return_book_isbn,book_quality
+RS104,IS106,"Animal Farm",2024-05-01,978-0-330-25864-8,Good
+RS105,IS107,"One Hundred Years of Solitude",2024-05-03,978-0-14-118776-1,Damaged
+RS106,IS108,"The Great Gatsby",2024-05-05,978-0-525-47535-5,Good
+RS107,IS109,"Jane Eyre",2024-05-07,978-0-141-44171-6,Damaged
+RS108,IS110,"The Alchemist",2024-05-09,978-0-307-37840-1,Good
+RS109,IS111,"Harry Potter and the Sorcerers Stone",2024-05-11,978-0-679-76489-8,Good
+RS110,IS112,"A Game of Thrones",2024-05-13,978-0-09-957807-9,Damaged
+RS111,IS113,"A Peoples History of the United States",2024-05-15,978-0-393-05081-8,Good
+RS112,IS114,"The Guns of August",2024-05-17,978-0-19-280551-1,Good
+RS113,IS115,"The Histories",2024-05-19,978-0-14-044930-3,Good
+RS114,IS116,"Guns, Germs, and Steel: The Fates of Human Societies",2024-05-21,978-0-393-91257-8,Good
+RS115,IS117,1984,2024-05-23,978-0-679-64115-3,Good
+RS116,IS118,"Pride and Prejudice",2024-05-25,978-0-14-143951-8,Damaged
+RS117,IS119,"Brave New World",2024-05-27,978-0-452-28240-7,Good
+RS118,IS120,"The Road",2024-05-29,978-0-670-81302-4,Damaged
+RS140,IS135,"Sapiens: A Brief History of Humankind",2025-01-28,978-0-307-58837-1,Good
+RS150,IS140,"Animal Farm",2025-01-28,978-0-330-25864-8,Damaged
