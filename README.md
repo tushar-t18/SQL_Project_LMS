@@ -14,6 +14,7 @@ This project is a Library Management System (LMS) developed using SQL. The syste
 
 ![image alt](https://github.com/tushar-t18/SQL_Project_LMS/blob/8e18eae956bbd5e4c344e30323ef6a22533e8bec/ER%20Diagram.png)
 
+## Database and Table Creation
 
 ~~~sql 
 CREATE DATABASE project_lms;
@@ -380,6 +381,6 @@ This project demonstrates the application of SQL skills in creating and managing
 ## Contact
 - **Email:** [Gmail](mailto:tushardutta8447@gmail.com)
 - **Linkedin:** [Linkedin](www.linkedin.com/in/tusharkumar18) 
-- **Github:**
+- **Github:** [Github](https://github.com/tushar-t18)
 
 ### Thank you for your interest in this project!
