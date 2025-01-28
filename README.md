@@ -1,1 +1,1 @@
-# SQL_Project_LMS
+# Library Management System Project using SQL
